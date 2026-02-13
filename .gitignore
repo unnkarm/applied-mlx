@@ -1,3 +1,16 @@
-# Ignore Kaggle JSON datasets
+# Python virtual environments
+env/
+venv/
+.venv/
+
+# VS Code settings
+.vscode/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Dataset files
 *.json
 *.jsonl
+*.csv
+
